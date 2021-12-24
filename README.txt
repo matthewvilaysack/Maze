@@ -1,4 +1,4 @@
-A generated maze using the BFS algorithm with stacks and queues. 
+Generate a maze of custom dimensions using the BFS algorithm with stacks and queues. 
 
 Group members:
   Jennifer Kim - https://github.com/jenniferkimm
