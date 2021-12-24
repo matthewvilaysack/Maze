@@ -5,7 +5,6 @@ Group members:
   Matthew Vilaysack - https://github.com/matthewvilaysack
 
 If you wish to install the code and run/edit it:
-
 How to compile:
   javac MyMaze.java
 How to run:
