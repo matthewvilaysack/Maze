@@ -1,13 +1,15 @@
-Group members:
-  Jennifer Kim (kim00954)
-  Matthew Vilaysack (vilay016)
+A generated maze using the BFS algorithm with stacks and queues. 
 
-Contributions:
-  We both worked on it in call and attended office hours when we needed help together.
+Group members:
+  Jennifer Kim - https://github.com/jenniferkimm
+  Matthew Vilaysack - https://github.com/matthewvilaysack/Maze/edit/main/README.txt
+ needed help together.
 
 How to compile:
   javac MyMaze.java
-
+How to run:
+  java MyMaze
+  
 Additional Features: - MEET E.T. (run on repl for colors :) )
 Known bugs or defects: - No known bugs/defects
 Outside sources: - 
