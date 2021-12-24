@@ -1,4 +1,4 @@
-Generate a maze of custom dimensions using the BFS algorithm with stacks and queues. 
+Generate a maze of custom dimensions using the BFS algorithm with stacks and queues. Here is a demo of the project on <a href="https://replit.com/@MatthewVilaysa1/Donk#MyMaze.java">repl</a>.
 
 Group members:
   Jennifer Kim - https://github.com/jenniferkimm
