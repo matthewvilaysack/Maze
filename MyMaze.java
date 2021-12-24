@@ -16,6 +16,27 @@ public class MyMaze {
         this.startRow = startRow;
         this.endRow = endRow;
     }
+    public static void main(String[] args) {
+      Scanner scan = new Scanner(System.in);
+      System.out.print("Enter number of rows: ");
+      if (scan.hasNextInt()) {
+        int rows = scan.nextInt() ; 
+        System.out.print("Enter number of columnss: ");
+        int cols = scan.nextInt() ; 
+        System.out.print("Enter start row: ");
+        int start = scan.nextInt() ; 
+        System.out.print("Enter end row: ");
+        int end = scan.nextInt(); 
+        MyMaze maze = new MyMaze(rows, cols, start, end);
+        maze = makeMaze(rows, cols, start, end);
+        maze.solveMaze();
+        maze.printMaze();
+      } else {
+        System.out.println("Sorry, only enter integers");
+      }
+      scan.close();
+      
+    }
 public static int search(int[][] a, int row, int col) {
     boolean[][] visitedArray = new boolean[a.length][a[0].length];
     int count = 0;
