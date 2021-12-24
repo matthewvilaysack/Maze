@@ -2,7 +2,7 @@ Generate a maze of custom dimensions using the BFS algorithm with stacks and que
 
 Group members:
   Jennifer Kim - https://github.com/jenniferkimm
-  Matthew Vilaysack - https://github.com/matthewvilaysack/Maze/edit/main/README.txt
+  Matthew Vilaysack - https://github.com/matthewvilaysack
  needed help together.
 
 How to compile:
